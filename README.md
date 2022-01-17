@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-### Personel Linkedin CV & Contant
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://linkedin.com/in/mehemmedsxiyev)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:mahammad@iflingo.com)
+### Personal information & contact :information_desk_person:
+[![E-Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahammad@iflingo.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehemmedsxiyev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mehemmed_sxiyev)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mahammad_sxiyev)
 
-### Github CV 👋
+### Github CV :page_with_curl:
 [![Mahammad](https://github-readme-stats.vercel.app/api?username=mahammad&count_private=true&show_icons=true&theme=radical)](https://github.com/mahammad)
