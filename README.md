@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mahammad_sxiyev)
 
 ### Github CV :page_with_curl:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad&layout=compact)](https://github.com/mahammad/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad&layout=compact)](https://github.com/mahammad)
 
 [![Mahammad](https://github-readme-stats.vercel.app/api?username=mahammad&count_private=true&show_icons=true&theme=blueberry)](https://github.com/mahammad)
 
